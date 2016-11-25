@@ -1,0 +1,5 @@
+Interview
+http://www.journaldev.com/3633/hibernate-interview-questions-and-answers
+http://www.journaldev.com/2696/spring-interview-questions-and-answers
+http://www.journaldev.com/2529/jdbc-interview-questions-and-answers
+https://javabrains.io/topics/spring

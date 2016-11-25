@@ -1,0 +1,15 @@
+Vagrant
+http://www.erikaheidi.com/blog/a-begginers-guide-to-vagrant-getting-your-portable-development-e
+https://code.tutsplus.com/tutorials/introduction-to-vagrant--cms-25917
+https://code.tutsplus.com/tutorials/vagrant-what-why-and-how--net-26500
+https://scotch.io/tutorials/get-vagrant-up-and-running-in-no-time
+http://www.cyberciti.biz/cloud-computing/use-vagrant-to-create-small-virtual-lab-on-linux-osx/
+https://www.cyberciti.biz/cloud-computing/use-vagrant-to-create-small-virtual-lab-on-linux-osx/
+https://scotch.io/tutorials/get-vagrant-up-and-running-in-no-time
+https://code.tutsplus.com/tutorials/vagrant-what-why-and-how--net-26500
+https://code.tutsplus.com/tutorials/introduction-to-vagrant--cms-25917
+https://gist.github.com/dergachev/3866825
+http://aruizca.com/steps-to-create-a-vagrant-base-box-with-ubuntu-14-04-desktop-gui-and-virtualbox/
+https://github.com/ckan/ckan/wiki/How-to-create-a-centos-vagrant-base-box
+https://github.com/ftrossbach/intro-to-dcos
+https://blog.engineyard.com/2014/building-a-vagrant-box
