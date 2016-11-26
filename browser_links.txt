@@ -1,0 +1,17 @@
+https://google.github.io/styleguide/javaguide.html
+https://dzone.com/articles/git-behind-the-curtain-what-happens-when-you-commi
+http://blog.kubernetes.io/2015/11/creating-a-Raspberry-Pi-cluster-running-Kubernetes-the-shopping-list-Part-1.html
+http://makezine.com/projects/build-a-compact-4-node-raspberry-pi-cluster/
+http://www.rasmurtech.com/raspberry-pi-3-cluster-supercomputer/
+http://www.hongkiat.com/blog/online-meeting-tools/
+http://javabeat.net/spring-data-jpa/
+http://anakiou.blogspot.com/2015/08/multi-tenant-application-with-spring.html
+http://javarticles.com/2016/05/spring-boot-rest-example.html
+https://stormpath.com/blog/crud-application-react-spring-boot-user-authentication
+http://blog.netgloo.com/2014/10/27/using-mysql-in-spring-boot-via-spring-data-jpa-and-hibernate/
+http://christoph-burmeister.eu/?p=2849
+https://github.com/springframeworkguru/springbootwebapp
+https://github.com/springframeworkguru/springbootwebapp/tree/part2/src/main
+https://springframework.guru/blog/page/9/
+https://github.com/springframeworkguru/springbootwebapp/tree/master/src/main/java/guru/springframework
+https://springframework.guru/spring-boot-web-application-part-1-spring-initializr/
