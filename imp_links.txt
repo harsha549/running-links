@@ -35,3 +35,5 @@ http://kachayev.github.io/talks/
 http://techblog.netflix.com/
 http://gceasy.io/
 https://medium.com/@bossjones/how-i-setup-a-raspberry-pi-3-cluster-using-the-new-docker-swarm-mode-in-29-minutes-aa0e4f3b1768#.jegj1g7tt
+https://codewords.recurse.com
+http://staltz.com
