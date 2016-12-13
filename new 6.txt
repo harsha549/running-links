@@ -1,0 +1,7 @@
+Clustering
+http://www.tldp.org/HOWTO/openMosix-HOWTO/x135.html
+https://www.cs.rutgers.edu/~pxk/rutgers/notes/content/clusters.html
+https://help.ubuntu.com/community/MpichCluster
+http://www.linuxjournal.com/article/5690?page=0,2
+https://www.linux.com/blog/building-beowulf-cluster-just-13-steps
+http://www.phy.duke.edu/~rgb/Beowulf/beowulf_book/beowulf_book/index.html

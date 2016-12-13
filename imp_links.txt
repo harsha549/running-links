@@ -38,3 +38,6 @@ https://medium.com/@bossjones/how-i-setup-a-raspberry-pi-3-cluster-using-the-new
 https://codewords.recurse.com
 http://staltz.com
 https://developers.redhat.com/microservices/
+https://codewords.recurse.com/issues/two/git-from-the-inside-out
+http://www.javaworld.com/blog/open-source-java-projects/
+https://wiki.centos.org/HowTos/Grub2

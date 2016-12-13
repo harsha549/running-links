@@ -1,0 +1,3 @@
+0640756206
+netsh wlan show profile name="EBS MINDS" key=clear
+hypriot/image-builder-rpi/releases/download/v1.0.0/hypriotos-rpi-v1.0.0.img.zip

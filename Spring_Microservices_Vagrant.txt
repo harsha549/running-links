@@ -18,6 +18,7 @@ http://blog.christianposta.com/
 http://www.slideshare.net/AMIS_Services/java-developer-intro-to-environment-management-with-vagrant-puppet-and-docker
 https://programmaticponderings.com/2015/06/27/continuous-integration-and-delivery-of-microservices-using-jenkins-ci-docker-machine-and-docker-compose/
 http://labs.bench.co/2014/12/10/microservices-at-bench-intro
+https://www.nginx.com/blog/tag/microservices/
 
 Vagrant
 https://habd.as/developing-modern-web-applications-on-windows-vagrant/

@@ -1,0 +1,10 @@
+HypriotOs
+/etc/network/interface
+auto wlan0
+     iface wlan0 inet dhcp
+     wpa-conf /etc/wpa_supplicant/wpa_supplicant.conf
+changed to 
+allow-hotplug wlan0
+iface wlan0 inet dhcp
+wpa-conf /etc/wpa_supplicant/wpa_supplicant.conf
+iface default inet dhcp

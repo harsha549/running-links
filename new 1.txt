@@ -1,0 +1,14 @@
+http://blog.hypriot.com/getting-started-with-docker-on-your-arm-device/
+http://blog.hypriot.com/getting-started-with-docker-and-windows-on-the-raspberry-pi/
+http://blog.hypriot.com/downloads/
+ssh pirate@ipaddress
+password:hypriot
+docker run -d -p 80:80 hypriot/rpi-busybox-httpd
+docker ps
+http://tomearp.blogspot.com/2014/01/using-sd-card-with-vmware-workstation.html
+http://www.htpcguides.com/how-to-use-sd-card-reader-in-vmplayer-and-vmworkstation/
+http://blog.hypriot.com/post/releasing-HypriotOS-1-0/
+https://www.raspberrypi.org/forums/viewtopic.php?f=6&t=4965
+https://wiki.debian.org/WiFi/HowToUse
+http://askubuntu.com/questions/240784/cant-connect-to-wireless-on-ubuntu-server
+http://elinux.org/RPi_Hub

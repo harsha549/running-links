@@ -1,0 +1,76 @@
+docker on CentOs
+You will hit an issue with kernel
+uninstall both the versions.
+172  wget -qO- http://get.docker.io|sh
+  173  yum install docker
+  174  rpm -Va --nofiles --nodigest
+  175  yum install docker
+  176   curl -fsSL https://get.docker.com/ | sh
+  177  clear
+  178  docker run hello-world
+  179  docker
+  180  docker run --help
+  181  clear
+  182  docker ps
+  183  yum install docker
+  184  yum list installed |grep docker
+  185  yum remove docker-engine.x86_64 
+  186  yum remove docker
+  187  yum install docker
+  188  yum remove docker
+  189  yum list installed |grep docker
+  190  yum remove docker-engine-selinux.noarch 
+  191  yum install docker |sh
+  192  yum install docker
+  193  docker version
+  194  docker start 
+  195  service docker start
+  196  docker version
+  197  chkconfig docker
+  198  chkconfig docker on
+  199   sudo tee /etc/yum.repos.d/docker.repo <<- 'EOF'
+  200  [Dockerrepo]
+  201  sudo tee /etc/yum.repos.d/docker.repo << - 'EOF' 
+  202    > [Dockerrepo] 
+  203    > Name = Docker Repository 
+  204    > Baseurl = http: //yum.dockerproject.org/repo/main/centos/7/ 
+  205    > Enabled = 1 
+  206    > Gpgcheck = 1 
+  207    > Gpgkey = https: //yum.dockerproject.org/gpg 
+  208    > EOF 
+  209    [Dockerrepo] 
+  210    Name = Docker Repository 
+  211    Baseurl = https://yum.dockerporject.org/repo/main/centos/7/ 
+  212    Enabled = 1 
+  213    Gpgcheck = 1 
+  214    Gpgkey = https://yum.dockerproject.org/gpg 
+  215  vi /etc/sudoers
+  216  clear
+  217  exit
+  218  yum search sudo
+  219  yum install sudo.x86_64 
+  220  visudo /etc/sudoers
+  221  visudo --help
+  222  cd /etc
+  223  visudo sudoers
+  224  visudo 
+  225  exit
+  226  clear
+  227  exit
+  228  curl -L "https://github.com/docker/compose/releases/download/1.8.1/docker-compose-$(uname -s)-$(uname -m)" > /usr/local/bin/docker-compose
+  229  docker-compose --version
+  230  ls -l /usr/local/bin/docker-compose 
+  231  chmod +x /usr/local/bin/docker-compose 
+  232  docker-compose --version
+  233  curl -L https://github.com/docker/machine/releases/download/v0.8.2/docker-machine-`uname -s`-`uname -m` >/usr/local/bin/docker-machine && \
+  234  curl -L https://github.com/docker/machine/releases/download/v0.8.2/docker-machine-`uname -s`-`uname -m` >/usr/local/bin/docker-machine &&chmod +x /usr/local/bin/docker-machine
+  235  docker-machine --version
+  236  docker --version
+  237  clear
+  238  yum list installed|grep docker 
+  239  docker run hello-world
+  240  docker run --help
+  241  clear
+  242  history
+ 
+ http://yum.dockerproject.org

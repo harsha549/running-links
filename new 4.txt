@@ -1,0 +1,43 @@
+auto lo
+iface lo inet loopback
+
+iface eth0 inet manual
+
+allow-hotplug wlan0
+iface wlan0 inet manual
+    wpa-conf /etc/wpa_supplicant/wpa_supplicant.conf
+
+allow-hotplug wlan1
+iface wlan1 inet manual
+
+Address: 20:10:7A:12:AB:C6
+                    Channel:1
+                    Frequency:2.412 GHz (Channel 1)
+                    Quality=70/70  Signal level=-30 dBm
+                    Encryption key:on
+                    ESSID:"Comets"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 18 Mb/s
+                              24 Mb/s; 36 Mb/s; 54 Mb/s
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 48 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+                    Extra: Last beacon: 70ms ago
+                    IE: Unknown: 0006436F6D657473
+                    IE: Unknown: 010882848B962430486C
+                    IE: Unknown: 030101
+                    IE: Unknown: 2A0104
+                    IE: Unknown: 2F0104
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    IE: Unknown: 32040C121860
+
+network={
+ssid="Comets"
+psk="Electrical"
+proto=RSN
+key_mgmt=WPA-PSK
+pairwise=CCMP
+auth_alg=OPEN
+}

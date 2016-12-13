@@ -1,0 +1,14 @@
+https://medium.com/google-cloud/everything-you-need-to-know-about-the-kubernetes-raspberry-pi-cluster-2a2413bfa0fa#.vmimk185a
+https://opensource.com/life/16/2/build-a-kubernetes-cloud-with-raspberry-pi
+http://sebgoa.blogspot.com/
+https://www.youtube.com/watch?v=nG21ANg62Ec
+http://kurtstam.blogspot.com
+https://medium.com/@bossjones/how-i-setup-a-raspberry-pi-3-cluster-using-the-new-docker-swarm-mode-in-29-minutes-aa0e4f3b1768#.54fgz071l
+http://blog.kubernetes.io/2015/11/creating-a-Raspberry-Pi-cluster-running-Kubernetes-the-shopping-list-Part-1.html
+https://project31.github.io/
+https://github.com/umiddelb/aarch64/wiki/Install-CentOS-7-on-your-favourite-ARMv8-ARM64-AArch64-board
+http://www.makeuseof.com/tag/setup-wi-fi-bluetooth-raspberry-pi-3/
+https://ro14nd.de/kubernetes-on-raspberry-pi3
+http://blog.hypriot.com/post/how-to-setup-rpi-docker-swarm/
+http://weworkweplay.com/play/automatically-connect-a-raspberry-pi-to-a-wifi-network/
+http://hackaday.com/2016/09/01/how-to-use-docker-to-cross-compile-for-raspberry-pi-and-more/
